@@ -1,5 +1,5 @@
 # Puzzles
-##Programatically solving puzzles
+<h2>Programatically solving puzzles</h2>
 
 <ul>
 	<li><b>Grecian Computer - Python<br></b>
